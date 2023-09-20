@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+hr {
+  border-style: dotted;
+  border-color: #EAF6F6;
+  width: 30%;
+  border-width: 20px 0 0 0;
+  margin: 20px auto 10px auto;
+}
+
+h1 {
+  color: #66BFBF;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 8rem;
+  font-family: 'Island Moments', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 2.5rem;
+  font-family: 'Raleway', sans-serif;
+  margin: 50px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Raleway', sans-serif;
+}
+
+a {
+  color: #66BFBF;
+  font-family: 'Raleway', sans-serif;
+  margin: 0 20px 0 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+p {
+  margin-top: 0;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.top {
+ background: linear-gradient(to bottom, pink, white);
+  padding-top: 150px;
+}
+
+.emphasis {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+
+.cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 900px;
+  top: 50px;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 150px auto;
+  text-align: left;
+}
+
+.godzilla {
+  float: left;
+  margin-right: 30px;
+}
+
+.mouse {
+  float: right;
+  margin-left: 30px;
+}
+
+.godzilla-caption {
+  text-align: left;
+}
+
+.mouse-caption {
+  text-align: left;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  color: #66BFBF;
+}
+
+.btn {
+  background: #2ae0e0;
+  background-image: -webkit-linear-gradient(top, #2ae0e0, #bd66ba);
+  background-image: -moz-linear-gradient(top, #2ae0e0, #bd66ba);
+  background-image: -ms-linear-gradient(top, #2ae0e0, #bd66ba);
+  background-image: -o-linear-gradient(top, #2ae0e0, #bd66ba);
+  background-image: linear-gradient(to bottom, #2ae0e0, #bd66ba);
+  -webkit-border-radius: 18;
+  -moz-border-radius: 18;
+  border-radius: 18px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ff0000;
+  background-image: -webkit-linear-gradient(top, #ff0000, #ffffff);
+  background-image: -moz-linear-gradient(top, #ff0000, #ffffff);
+  background-image: -ms-linear-gradient(top, #ff0000, #ffffff);
+  background-image: -o-linear-gradient(top, #ff0000, #ffffff);
+  background-image: linear-gradient(to bottom, #ff0000, #ffffff);
+  text-decoration: none;
+}
+
+
+
+.talk-to-sam {
+  color: red;
+  font-size:4rem;
+}
+
+.middle-container {
+  padding-top: 40px;
+}
+
+.profile p {
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+.skill-row img {
+  width: 40%;
+}
+
+.skill-row h3 {
+  font-size: 1.5rem;
+}
+
+.skill-row p {
+  line-height: 2;
+}
+
+.contact-me p {
+  margin: 50px auto 50px auto;
+  width: 40%;
+}
+
+.bottom-container {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  margin-top: 60px;
+}
+
+.footer-link {
+  line-height: 5;
+}
